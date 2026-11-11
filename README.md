@@ -1,6 +1,5 @@
 # Hikmat Nasrullazade
 
-Erasmus+ layihələrinə müraciət dəstəyi göstərən könüllülük platforması: Global Volunteers.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nasrullazadehikmat/nasrullazadehikmat/output/github-snake-dark.svg" />
