@@ -56,7 +56,9 @@ Layihələrimdə istifadə olunanlar:
 
 ## 📫 Əlaqə
 
-LinkedIn üzərindən yazın: [Hikmat Nasrullazade](https://www.linkedin.com/in/hikmat-nasrullazade-b2b77a33a)
+📧 [nesrullazadehikmet@gmail.com](mailto:nesrullazadehikmet@gmail.com)
+
+💼 [LinkedIn: Hikmat Nasrullazade](https://www.linkedin.com/in/hikmat-nasrullazade-b2b77a33a)
 
 ## 🐍 Contribution Snake
 
