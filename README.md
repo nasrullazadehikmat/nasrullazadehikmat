@@ -12,24 +12,27 @@
 
 ## 👋 Haqqımda
 
-Bakıda **ADNSU**-da kompüter mühəndisliyi oxuyuram. Gənclərin Erasmus+ və digər beynəlxalq könüllülük imkanlarına çıxışını asanlaşdıran platformalar qururam.
+Bakıda **ADNSU**-da kompüter mühəndisliyi oxuyuram, həmçinin Python tutor kimi çalışıram. Gənclərin Erasmus+ və digər beynəlxalq könüllülük imkanlarına çıxışını asanlaşdıran platformalar qururam, süni intellektlə bağlı layihələr və tədqiqatlar aparıram.
 
 ## 🚀 Hazırda
 
 - 🌍 **Global Volunteers** platformasının sədriyəm
 - 🧭 **Openly** layihəsinin həmtəsisçisiyəm
+- 🌾 **AgroTrip** layihəsinin müəllifiyəm
 
 ## 🧩 Layihələr
 
 | Layihə | Haqqında |
 |---|---|
 | [**Global Volunteers**](https://github.com/nasrullazadehikmat/global-volunteers) | Azərbaycanlı gənclər üçün Erasmus+ layihələrinə müraciət dəstəyi göstərən könüllülük platforması |
-| [**Openly**](https://github.com/1brah1m0f/Voluntering-platform) | Erasmus+, SALTO-Youth, Avropa Həmrəylik Korpusu və BMT Könüllüləri imkanlarını bir yerdə toplayan platforma: axtarış, uyğunluq faizi, müraciət izləmə, AI köməkçi və e-poçt xatırlatmaları. [Canlı sayt](https://voluntering-platform.vercel.app) |
+| [**Openly**](https://github.com/1brah1m0f/Voluntering-platform) | Erasmus+, SALTO-Youth, Avropa Həmrəylik Korpusu və BMT Könüllüləri imkanlarını bir yerdə toplayan platforma: axtarış, uyğunluq faizi, müraciət izləmə, AI köməkçi və e-poçt xatırlatmaları. [Canlı sayt](https://www.openlyapply.com) |
+| **AgroTrip** | AI əsaslı aqroturizm platforması: turistlərə uyğun kənd, ferma və fəaliyyətləri tapmağa, fermerlərə isə məhsul və xidmətlərini təqdim etməyə kömək edir. Kod tezliklə əlavə olunacaq |
 
 ## 🛠 Texnologiyalar
 
 Layihələrimdə istifadə olunanlar:
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -38,6 +41,14 @@ Layihələrimdə istifadə olunanlar:
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## 🏆 Nailiyyətlər
+
+- **AgroTrip** layihəsi Enterprise Azerbaijan-ın təşkil etdiyi **Startup School 4: "5 Continents, 500 Startups"** proqramı çərçivəsində tanınıb
+
+## 📄 Nəşr
+
+**Artificial Intelligence and Human Cognition: A Comparative Study of Cognitive Processes and Societal Implications** (açıq çıxışlı jurnal məqaləsi, 26 oktyabr 2025). Süni intellekt ilə insan idrakının güclü və zəif tərəflərini və cəmiyyətə təsirlərini müqayisə edir.
 
 ## 🎓 Təhsil
 
