@@ -48,7 +48,7 @@ Layihələrimdə istifadə olunanlar:
 
 ## 📄 Nəşr
 
-**Artificial Intelligence and Human Cognition: A Comparative Study of Cognitive Processes and Societal Implications** (açıq çıxışlı jurnal məqaləsi, 26 oktyabr 2025). Süni intellekt ilə insan idrakının güclü və zəif tərəflərini və cəmiyyətə təsirlərini müqayisə edir.
+[**Artificial Intelligence and Human Cognition: A Comparative Study of Cognitive Processes and Societal Implications**](https://zenodo.org/records/17448053) (açıq çıxışlı jurnal məqaləsi, 26 oktyabr 2025, Zenodo). Süni intellekt ilə insan idrakının güclü və zəif tərəflərini və cəmiyyətə təsirlərini müqayisə edir.
 
 ## 🎓 Təhsil
 
